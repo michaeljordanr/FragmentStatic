@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FragmentStatic</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="fragment_right">Fragment da Direita</string>
+    <string name="fragment_left">Fragment da Esquerda</string>
+</resources>
